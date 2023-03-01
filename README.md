@@ -46,6 +46,8 @@ NRC:10067
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
+Se logró responder a varias preguntas que se tenían acerca de todos los materiales que se compró para realizar el proyecto ya que no todos nosotros queriamos saber como funciona cada uno de ellos y así también saber que rol cumple dentro del circuito.
+
 5. VIDEO
 
 6. CONCLUSIONES
