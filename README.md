@@ -33,10 +33,15 @@ NRC:10067
 3. EXPLICACION DEL PROCEDIMIENTO
 
 1.- Primero colocamos el sensor LM35, con GND a negavito, Vout en el positivo del microcontrolador y el Vs a los 5V.
+
 2.- El negativo del amplificador operacional a un preset en Vend.
+
 3.. El terminal 1 del preset a  los 5V y el terminal 2 del preset al negativo.
+
 4.- Del Vout del aplificador sacamos dos diodos led.
+
 5.- Los dos diodos led conectados a resistencias de 470ohm.
+
 6.- Conectamos una bateria de 9V para alimentar el circuito.
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
