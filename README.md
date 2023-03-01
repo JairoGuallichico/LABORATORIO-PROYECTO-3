@@ -59,5 +59,3 @@ Principios de Circuitos Eléctricos Floyd PDF. (2020, marzo 20). Circuitos Eléc
 TEC2: 12.8.- APARATOS DE MEDIDA ELÉCTRICOS. (s/f). Xunta.gal. Recuperado el 11 de noviembre de 2022, de https://www.edu.xunta.gal/centros/cafi/aulavirtual/mod/page/view.php?id=25231
 
 
-![image](https://user-images.githubusercontent.com/117744175/222025669-c106d13f-f482-41fd-9a88-ad417a73445f.png)
-
