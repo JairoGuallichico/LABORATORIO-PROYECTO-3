@@ -18,6 +18,10 @@ NRC:10067
          
   
 1.     OBJETIVOS:
+realizar un circuito en la protoboard con materiales como resistencias, sensores, amplificasores, potenciometro
+diodos led, baterias, para mediante la coneccion correcta de cada uno de estos materiales electricos se pueda
+medir las subidas de temperatura que el sensor detectara haciado que inmediatamente al subir la temperatura
+se encienda un diodo led.  
 
 
 1.1    OBJETIVOS ESPECIFICO:
