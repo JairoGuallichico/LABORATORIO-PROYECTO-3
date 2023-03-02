@@ -63,8 +63,11 @@ Se logró responder a varias preguntas que se tenían acerca de todos los materi
 
 7. BIBLIOGRAFIA
 
-Principios de Circuitos Eléctricos Floyd PDF. (2020, marzo 20). Circuitos Eléctricos y Electrónicos. https://www.circuitos-electricos.com/floyd-pdf/
+Principios de Circuitos Eléctricos Floyd PDF. (2020, marzo 20). Circuitos Eléctricos y Electrónicos. 
+
+https://www.circuitos-electricos.com/floyd-pdf/
 
 https://es.wikipedia.org/wiki/Amplificador_operacional
+
 https://docplayer.es/33269329-1-medicion-de-temperatura-con-lm35.html
 
