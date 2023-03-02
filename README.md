@@ -57,7 +57,8 @@ se encienda un diodo led.
 Se logró responder a varias preguntas que se tenían acerca de todos los materiales que se compró para realizar el proyecto ya que no todos nosotros queriamos saber como funciona cada uno de ellos y así también saber que rol cumple dentro del circuito.
 
 5. VIDEO
- https://youtu.be/T1d80sbFxKA
+
+- https://youtu.be/T1d80sbFxKA
 
 6. CONCLUSIONES
 
