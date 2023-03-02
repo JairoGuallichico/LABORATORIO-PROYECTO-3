@@ -28,7 +28,10 @@ NRC:10067
 
 2. MARCO TEORICO
 
+![image](https://user-images.githubusercontent.com/116815201/222304115-bd286007-c507-42e1-aea4-619325d6d9fe.png)
 ![image](https://user-images.githubusercontent.com/117744175/222025669-c106d13f-f482-41fd-9a88-ad417a73445f.png)
+![image](https://user-images.githubusercontent.com/116815201/222303960-6cb0ae46-fcd9-4666-b3e3-bcdc745ba7b4.png)
+
 
 3. EXPLICACION DEL PROCEDIMIENTO
 
@@ -52,10 +55,16 @@ Se logró responder a varias preguntas que se tenían acerca de todos los materi
 
 6. CONCLUSIONES
 
+- Este proyecto es muy útil en la vida diaria de todas las personas, ya que este circuito ayuda mucho tanto en el area industrial como en area domestica debido a que detecta las altas temperaturas cuando es necesario asi evitando futuras catastrofes o accidentes que pueden ocurrir durante n incendio.
+
+- Debemos revisar todos los elementos que vamos a utilizar en la construccion del circuito y  asi determinar si funcionan correctamente cada uno de ellos para evitar problemas al momento de construir el circuito.
+
+- En este proyecto surgieron algunos problemas al momento de familiarizarnos con los materiales y con la construcción misma de estas ya que no es lo mismo ver una clase virtual que una que se haga de manera presencial.
+
 7. BIBLIOGRAFIA
 
 Principios de Circuitos Eléctricos Floyd PDF. (2020, marzo 20). Circuitos Eléctricos y Electrónicos. https://www.circuitos-electricos.com/floyd-pdf/
 
-TEC2: 12.8.- APARATOS DE MEDIDA ELÉCTRICOS. (s/f). Xunta.gal. Recuperado el 11 de noviembre de 2022, de https://www.edu.xunta.gal/centros/cafi/aulavirtual/mod/page/view.php?id=25231
-
+https://es.wikipedia.org/wiki/Amplificador_operacional
+https://docplayer.es/33269329-1-medicion-de-temperatura-con-lm35.html
 
